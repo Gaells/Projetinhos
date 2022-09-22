@@ -1,0 +1,32 @@
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    background-color: aquamarine;
+}
+
+.titulo {
+    border: 3px solid red;
+}
+
+.input {
+    border: 3px solid blue;
+}
+
+label {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+button {
+    border: 3px solid chartreuse;
+}
+
+.result {
+    background-color: crimson;
+}
